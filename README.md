@@ -1,1 +1,1 @@
-# Photo-Editor
+# Photo-Editor: It is a photo editor web app with features such as flipping horizontally and vertically, rotating right and left, resize and grayscale.It is build on frontend technology which uses 2D and 3D array data structure concepts.
